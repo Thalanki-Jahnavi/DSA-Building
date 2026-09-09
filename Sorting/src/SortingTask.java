@@ -1,3 +1,13 @@
+//Enter array1 size: 5
+//Enter array1 elements: 27 85 64 3 21
+//Enter array2 size: 4
+//Enter array2 elements: 34 53 9 3
+//Bubble Sort: 3 21 27 64 85
+//Insertion Sort: 3 9 34 53
+//After Merging: 3 21 27 64 85 3 9 34 53
+//Result: 3 3 9 21 27 34 53 64 85
+
+
 import java.util.*;
 public class SortingTask {
     public static void main(String[] args) {
